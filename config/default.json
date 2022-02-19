@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://mailtester0000:mailtester000@cluster0.il78w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecretKey": "myjwtKey",
+    "SECRET": "tester",
+    "USER": "mailtester1616@gmail.com",
+    "PASS": "tester@000"
+}
